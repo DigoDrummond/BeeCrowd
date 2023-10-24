@@ -7,6 +7,7 @@ public class Sort_by_Length {
        
         int n = sc.nextInt();
         int i=0;
+        
         while(i<=n){
             String input = sc.nextLine();
             String[] words = input.split(" ");

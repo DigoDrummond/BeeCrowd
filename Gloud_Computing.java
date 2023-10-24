@@ -22,7 +22,7 @@ public class Gloud_Computing {
                 array[j] = sc.nextInt();
             }
             System.out.println(selectionSort(array, nums));
-
+            i++;
         }
 
         sc.close();
