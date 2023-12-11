@@ -76,5 +76,6 @@ public class Level_Order_Tree_Traversal {
             arvore.porNivel(i);
         }
 
+        sc.close();
     }
 }
